@@ -6,3 +6,9 @@
 ```console
 pip install python-leetcode-runner
 ```
+
+## To Test your code
+
+```console
+pyleet two-sum.py
+```
