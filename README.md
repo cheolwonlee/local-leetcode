@@ -1,6 +1,6 @@
 ## Local-Leetcode
 #### Used for practicing leetcode on the go.
-
+##### credit:https://github.com/tusharsadhwani/python_leetcode_runner
 ## Dependencies
 
 ```console
